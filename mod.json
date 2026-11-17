@@ -1,6 +1,6 @@
 {
-  "name": "hotkey-save",
-  "displayName": "Hotkey Save",
+  "name": "quicksave",
+  "displayName": "Quicksave",
   "author": "pozix604",
   "description": "F2/F3 quicksave/load",
   "version": "0.1",
